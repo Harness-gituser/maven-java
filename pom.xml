@@ -12,6 +12,8 @@
            <java.version>1.8</java.version>
            <maven.compiler.source>1.6</maven.compiler.source>
            <maven.compiler.target>1.6</maven.compiler.target>
+           <sonar.host.url>http://18.216.65.204:9000/</sonar.host.url>
+           <sonar.login>39446a954ed9dd346db08e8365e0aab112f0ed3f</sonar.login>
      </properties>
 
       <dependencies>
